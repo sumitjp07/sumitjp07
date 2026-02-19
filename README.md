@@ -1,66 +1,67 @@
-<h1 align="center">Hi 👋, I'm SUMIT PATIL</h1>
-<h3 align="center">Diploma Student in Computer Science & Engineering from India</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7F00FF&height=120&section=header"/>
 
-<img align="right" width="400" 
-src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sumitjp07&label=Profile%20views&color=0e75b6&style=flat" alt="sumitjp07" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=35&duration=3500&pause=800&color=7F00FF&center=true&vCenter=true&width=850&lines=SUMIT+PATIL;Computer+Science+Student;Open+to+Projects;Learning+Everyday+🔥" />
 </p>
 
-- 🔭 I’m currently working on **Improving my programming skills and building small academic projects**
 
-- 🌱 I’m currently learning **C, C++, Java and Database Management Systems**
 
-- 👯 I’m looking to collaborate on **Beginner-friendly software development projects**
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
+</p>
 
-- 🤝 I’m looking for help with **Data Structures and core programming concepts**
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumitjp07&theme=tokyonight" />
+</p>
 
-- 💬 Ask me about **Programming basics, CSE subjects, and academic projects**
-
-- 📫 How to reach me **sumitjpatil2007@gmail.com**
-
-- ⚡ Fun fact **I enjoy learning new technologies step by step.**
+>
 
 ---
 
-<h2 align="left">Connect with me:</h2>
+### 🚀 About Me
 
-<p align="left">
+- 🔭 Improving programming skills & building academic projects  
+- 🌱 Learning **C, C++, Java & DBMS**  
+- 👯 Open to beginner-friendly projects  
+- 🤝 Seeking help in **Data Structures & Core Concepts**  
+- 💬 Ask me about programming & CSE subjects  
+- 📫 **sumitjpatil2007@gmail.com**  
+- ⚡ Love learning step-by-step  
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
 <a href="https://linkedin.com/in/sumitjpatil" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
 </a>
-
 <a href="https://instagram.com/insttumit" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30"/>
 </a>
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+### 🛠 Languages & Tools
 
-<p align="left">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
 </p>
 
 ---
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sumitjp07&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
+### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitjp07&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sumitjp07&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
 
 <p align="center">
