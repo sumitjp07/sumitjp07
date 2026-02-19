@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SUMIT PATIL</h1>
-<h3 align="center">Diploma Student in Computer Science & Engineering from India</h3>
+<h2 align="center">Diploma Student in Computer Science & Engineering from India</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitjp07&label=Profile%20views&color=0e75b6&style=flat" alt="sumitjp07" /> </p>
 
@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **I enjoy learning new technologies step by step.**
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/sumit j patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumit j patil" height="30" width="40" /></a>
 <a href="https://instagram.com/insttumit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="insttumit" height="30" width="40" /></a>
