@@ -1,36 +1,25 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7F00FF&height=120&section=header"/>
+<!-- Animated Gradient Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7F00FF&height=180&section=header&text=SUMIT%20PATIL&fontSize=40&animation=fadeIn"/>
 
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=35&duration=3500&pause=800&color=7F00FF&center=true&vCenter=true&width=850&lines=SUMIT+PATIL;Computer+Science+Student;Open+to+Projects;Learning+Everyday+🔥" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Diploma+CSE+Student;Future+Data+Analyst;Passionate+About+Technology+🚀" />
 </p>
-
-
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumitjp07&theme=tokyonight" />
-</p>
-
->
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 Improving programming skills & building academic projects  
+- 🔭 Improving programming skills & building projects  
 - 🌱 Learning **C, C++, Java & DBMS**  
 - 👯 Open to beginner-friendly projects  
-- 🤝 Seeking help in **Data Structures & Core Concepts**  
-- 💬 Ask me about programming & CSE subjects  
+- 🤝 Exploring **Data Structures & Core Concepts**  
 - 📫 **sumitjpatil2007@gmail.com**  
 - ⚡ Love learning step-by-step  
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Connect With Me
 
 <p align="center">
 <a href="https://linkedin.com/in/sumitjpatil" target="_blank">
@@ -61,9 +50,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sumitjp07&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sumitjp07&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumitjp07&theme=tokyonight&hide_border=true"/>
 </p>
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7F00FF&height=120&section=footer"/>
