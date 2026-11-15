@@ -1,14 +1,18 @@
 <div align="center">
 
-<!-- Custom 3D Isometric Cyberpunk Header -->
-<img src="header_3d.svg" alt="Sumit Patil - Autonomous AI Agent Engineer" width="100%" />
+<!-- 3D Isometric Developer Header -->
+<img src="header_3d.svg" alt="Sumit Patil - Personal Developer Profile" width="100%" />
 
 <br/>
 
-<!-- Sleek Centered Social Badges -->
+<!-- Social & Connect Badges -->
 <p align="center">
   <a href="https://linkedin.com/in/sumitjpatil" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/insttumit" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   &nbsp;
   <a href="mailto:sumitjpatil2007@gmail.com" target="_blank">
@@ -26,69 +30,54 @@
 
 ## 👨‍💻 About Me
 
-I am a **Computer Science & Engineering undergraduate (Batch of 2029)** at **Pimpri Chinchwad University (PCU), Pune**, building **Autonomous Multi-Agent AI Systems**, **Cyclic LLM State Graphs**, and **Deterministic Statistical Guardrails**.
+Hi there! 👋 I am **Sumit Patil**, a **Computer Science & Engineering undergraduate (Batch of 2029)** at **Pimpri Chinchwad University (PCU), Pune**.
 
-- 🤖 **Specialization:** Multi-Agent Orchestration (LangGraph), Closed-World Tool Calling, and Automated Critic / Verification loops.
-- 🎯 **Engineering Principle:** Eliminating LLM hallucination through deterministic arithmetic validation against underlying ground-truth dataframes.
-- 💼 **Status:** Open to **AI Agent Engineer / Applied AI / Machine Learning Intern** roles.
-- 📫 **Direct Contact:** [sumitjpatil2007@gmail.com](mailto:sumitjpatil2007@gmail.com) • [LinkedIn](https://linkedin.com/in/sumitjpatil)
+I am passionate about building modern software, solving challenging algorithmic problems, and exploring artificial intelligence. I enjoy learning step-by-step and turning theoretical concepts into real-world code.
+
+- 🎓 **Education:** B.Tech in Computer Science & Engineering (2025 – 2029) @ PCU Pune
+- 💻 **Core Interests:** Software Development, Data Structures & Algorithms, Artificial Intelligence, and Web Technologies
+- 🌱 **Currently Exploring:** Advanced agentic AI workflows, system architecture, and scalable full-stack applications
+- ⚡ **Fun Fact:** I love dissecting complex technical systems down to first principles and writing clean, reliable code
 
 ---
 
-## ⚡ Flagship Project Showcase
-
-### [InsightFlow — Autonomous Multi-Agent AI Data Intelligence Platform](https://github.com/sumitjp07/insightflow-multiagent)
+## 🛠️ Tech Stack & Skills
 
 <div align="center">
-  <a href="https://github.com/sumitjp07/insightflow-multiagent">
-    <img src="https://raw.githubusercontent.com/sumitjp07/insightflow-multiagent/main/docs/assets/banner.svg" alt="InsightFlow Banner" width="100%" />
-  </a>
+  <img src="skills_3d.svg" alt="Sumit Patil - Tech Stack & Skills" width="100%" />
 </div>
 
 <br/>
 
-> **A production-grade, multi-agent AI data research platform built on LangGraph that decomposes complex analytical objectives, executes deterministic statistical tools, mathematically audits claims against Pandas ground truth to guarantee zero hallucination, and compiles publication-quality PDF briefs.**
-
-- 🧠 **5 Specialized Agents:** Planner, Data Analyst, Insight Research, Evaluation Critic, and Report Generator.
-- ⚖️ **Ground-Truth Mathematical Auditor:** Intercepts claims and verifies them against raw data (**100.0% calculation accuracy**, zero hallucination).
-- 🛡️ **Zero RCE Attack Vector:** Closed-world tool execution registry with strict Pydantic schemas — zero unsafe `eval()` or arbitrary execution.
-- ⚡ **High-Performance Full-Stack:** Decoupled FastAPI REST engine, Linear-inspired dark workspace, SQLite memory store, and **2.06s latency**.
-
-```bash
-git clone https://github.com/sumitjp07/insightflow-multiagent.git
-```
+- **Languages:** C, C++, Python, Java
+- **Core Computer Science:** Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), Operating Systems, DBMS
+- **Web & Databases:** HTML5, CSS3, JavaScript, REST APIs, MySQL, SQLite
+- **Tools & Platforms:** Git, GitHub, Linux / CLI, VS Code, Virtual Environments
 
 ---
 
-## 🛠️ Technical Competencies & Architecture Stack
+## 📊 Developer Profile Snapshot
 
 <div align="center">
-  <img src="skills_3d.svg" alt="Technical Competencies" width="100%" />
-</div>
-
-<br/>
-
-| Domain | Technologies & Core Architectural Patterns |
-|:---|:---|
-| **🤖 Autonomous AI & Agents** | `LangGraph 0.2` • `StateGraph Cycles` • `Google Gemini API` • `LangChain` • `Pydantic Structured Outputs` • `Automated Critic Guardrails` |
-| **⚙️ Backend & Systems** | `Python 3.11+` • `FastAPI` • `Async Uvicorn` • `RESTful APIs` • `Multithreading Watchdogs` • `SQLite Memory Store` |
-| **📊 Data Science & Analytics** | `Pandas` • `NumPy` • `ReportLab PDF Compiler` • `Chart.js` • `Plotly` • `Statistical Modeling (1.5x IQR, Pearson r)` |
-| **🚀 DevOps & Quality Assurance** | `GitHub Actions (CI/CD)` • `Pytest (10/10 Passing)` • `Git` • `Linux / Bash` • `Virtualenv` • `Semantic Versioning` |
-
----
-
-## 📊 Codebase Metrics & Engineering Profile
-
-<div align="center">
-  <img src="stats_3d.svg" alt="Engineering Profile Metrics" width="100%" />
+  <img src="stats_3d.svg" alt="Developer Snapshot & Skills Mix" width="100%" />
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## 🚀 Projects I've Built
 
-I am always keen to discuss **autonomous agents**, **state graph architectures**, and **high-impact engineering roles**:
+Here are some of the key projects I've engineered:
+
+- ⚡ **[InsightFlow](https://github.com/sumitjp07/insightflow-multiagent)** — An autonomous multi-agent AI data research platform built on LangGraph, FastAPI, and Gemini that executes deterministic tools and mathematically audits claims to eliminate hallucination.
+- 📈 **[AI Job Market Skill Demand Analyzer](https://github.com/sumitjp07/AI-Job-Market-Skill-Demand-Analyzer)** — A data-driven analysis tool tracking emerging tech skills, job roles, and employer requirements across the AI sector.
+
+---
+
+## 🤝 Let's Connect!
+
+I am always excited to connect with fellow developers, collaborate on projects, and discuss new tech opportunities:
 
 - 💼 **LinkedIn:** [linkedin.com/in/sumitjpatil](https://linkedin.com/in/sumitjpatil)
+- 📸 **Instagram:** [@insttumit](https://instagram.com/insttumit)
 - 📧 **Email:** [sumitjpatil2007@gmail.com](mailto:sumitjpatil2007@gmail.com)
 - 🐙 **GitHub:** [github.com/sumitjp07](https://github.com/sumitjp07)
