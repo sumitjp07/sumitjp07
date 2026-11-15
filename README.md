@@ -2,9 +2,22 @@
 
 <img src="header_3d.svg" alt="Sumit Jitendra Patil — Portfolio Specification" width="100%" />
 
-<br/><br/>
-
-**[LinkedIn](https://www.linkedin.com/in/sumitp2007/)** &nbsp;•&nbsp; **[GitHub](https://github.com/sumitjp07)** &nbsp;•&nbsp; **[Email](mailto:sumitj.patil2007@gmail.com)** &nbsp;•&nbsp; **Pune, Maharashtra**
+<!-- High-Impact Official Connect Badges -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/sumitp2007/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/sumitjp07" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="mailto:sumitj.patil2007@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Pune%2C%20India-0F172A?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+</p>
 
 ---
 
@@ -31,6 +44,19 @@ Currently seeking **AI Agent Engineer**, **Applied AI**, or **Software Developme
 
 <div align="center">
   <img src="skills_3d.svg" alt="Technical Competencies Specification" width="100%" />
+
+  <br/><br/>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+    <img src="https://img.shields.io/badge/LangGraph-FF9900?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+    <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+    <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  </p>
 </div>
 
 ---
