@@ -12,9 +12,9 @@
 
 ### About
 
-I am a Computer Science & Engineering undergraduate at **Pimpri Chinchwad University (PCU), Pune** (Batch of 2026–2029), with a diploma background in CSE (81.41%). 
+I am a Computer Science & Engineering undergraduate at **Pimpri Chinchwad University (PCU), Pune** (Batch of 2026–2029), with a diploma background in CSE (81.41%).
 
-My focus centers on **Autonomous Multi-Agent Systems**, **Deterministic LLM Architectures**, and **Data Intelligence Pipelines**. Rather than relying on fragile prompt chains, I build cyclic state machines that execute deterministic statistical tools and enforce mathematical audit guardrails to guarantee zero hallucination.
+My engineering focus centers on **Autonomous Multi-Agent Systems**, **Deterministic LLM Architectures**, and **Data Intelligence Pipelines**. Rather than relying on fragile prompt chains, I build cyclic state machines that execute deterministic statistical tools and enforce mathematical audit guardrails to guarantee zero hallucination.
 
 Currently seeking **AI Agent Engineer**, **Applied AI**, or **Software Development** intern roles.
 
@@ -31,21 +31,6 @@ Currently seeking **AI Agent Engineer**, **Applied AI**, or **Software Developme
 
 <div align="center">
   <img src="skills_3d.svg" alt="Technical Competencies Specification" width="100%" />
-</div>
-
-<br/>
-
-- **Languages:** Python 3.11+, C, C++, SQL
-- **AI & Agent Orchestration:** LangGraph 0.2 (StateGraph Cycles, Conditional Routing), Google Gemini API, LangChain, Structured Pydantic Schemas, Guardrail Validation
-- **Backend & Data Architecture:** FastAPI, Asynchronous REST APIs, Pandas, NumPy, SQLite, ReportLab PDF Engine, Uvicorn
-- **Tooling & Quality Assurance:** Pytest (10/10 automated test suites), Git, GitHub Actions (CI/CD), Linux CLI, Virtual Environments
-
----
-
-### Profile & Engineering Snapshot
-
-<div align="center">
-  <img src="stats_3d.svg" alt="Academic and Engineering Delivery Metrics" width="100%" />
 </div>
 
 ---
