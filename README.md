@@ -1,98 +1,99 @@
 <div align="center">
 
-# Sumit Jitendra Patil
-### AI Agent Engineer · Backend Developer · Open to Internships
+<img src="header_3d.svg" alt="Sumit Jitendra Patil — Portfolio Specification" width="100%" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumitp2007/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sumitj.patil2007@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sumitjp07)
-![Location](https://img.shields.io/badge/Pune,_India-0F172A?style=flat-square&logo=googlemaps&logoColor=white)
-![Status](https://img.shields.io/badge/🟢_Available_for_Internships-16a34a?style=flat-square)
+<br/><br/>
+
+<!-- Official Crisp Connect Badges -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/sumitp2007/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/sumitjp07" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="mailto:sumitj.patil2007@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Pune%2C%20India-0F172A?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20to%20Internships-22C55E?style=for-the-badge&logoColor=white" alt="Open to Internships" />
+</p>
+
+---
+
+<!-- 3 Architectural Pillars -->
+| 01 / ARCHITECTURE | 02 / CORE SYSTEMS | 03 / VERIFICATION |
+|:---|:---|:---|
+| **Autonomous Multi-Agent AI**<br/>LangGraph cyclic state machines &amp; tool layers | **Backend &amp; Algorithm Design**<br/>Python, FastAPI, C++, Data Structures &amp; SQL | **Mathematical Guardrails**<br/>Audited arithmetic &amp; zero-hallucination pipelines |
+
+---
 
 </div>
 
----
+### 👨‍💻 About Me
 
-## About
+I am a Computer Science & Engineering undergraduate at **Pimpri Chinchwad University (PCU), Pune** (Batch of 2026–2029), with an 81.41% CSE diploma background.
 
-Computer Science & Engineering undergraduate at **Pimpri Chinchwad University, Pune** (2026–2029), with a strong foundation from a **Diploma in CSE (81.41%)**.
+My engineering focus centers on **Autonomous Multi-Agent Systems**, **Deterministic LLM Architectures**, and **Data Intelligence Pipelines**. Rather than relying on fragile prompt chains, I build cyclic state machines that execute deterministic statistical tools and enforce mathematical audit guardrails to guarantee zero hallucination.
 
-I specialise in building **Autonomous Multi-Agent AI Systems** — deterministic LLM pipelines with mathematical audit guardrails, zero hallucination by design. My work bridges research-grade AI architecture with production-ready backend engineering using **LangGraph, FastAPI, and Python**.
-
-Currently seeking **AI Engineering**, **Applied AI**, or **Software Development** internship roles.
+Currently seeking **AI Agent Engineer**, **Applied AI**, or **Software Development** intern roles.
 
 ---
 
-## Education
+### ⚡ Selected Systems & Flagship Projects
 
-| Degree | Institution | Year | Score |
-|:---|:---|:---:|:---:|
-| **B.Tech — Computer Science & Engineering** | Pimpri Chinchwad University, Pune | 2026 – 2029 | — |
-| **Diploma — Computer Science & Engineering** | Tulsiramji Gaikwad-Patil Polytechnic, Nagpur | 2023 – 2026 | **81.41%** |
+- **[InsightFlow](https://github.com/sumitjp07/insightflow-multiagent)** — Autonomous multi-agent AI data research platform built on LangGraph, FastAPI, and Google Gemini. Features 5 specialized agents (Planner, Analyst, Researcher, Evaluator, Reporter) with cyclic state machines, a closed-world tool layer (zero remote code execution risk), and an automated critic achieving **100.0% calculation accuracy** against Pandas ground truth. Includes an enterprise dark-mode workspace and 1-click executive PDF generation.
+
+- **[AI Job Market Demand Analyzer](https://github.com/sumitjp07/AI-Job-Market-Skill-Demand-Analyzer)** — End-to-end data intelligence workflow analyzing 9,355+ structured job records from 2020–2023. Benchmarked 3 classification models (Random Forest, Linear SVM, Logistic Regression) for role prediction and engineered an automated skill-gap diagnostic engine (built under the *IBM SkillsBuild & BharatCares* initiative).
 
 ---
 
-## Experience
+### 🛠️ Technical Competencies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,cpp,c,git,github,linux,sqlite,mysql,vscode,postman" alt="Tech Stack Icons" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/LangGraph-FF9900?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+---
+
+### 🎓 Experience & Education
 
 | Role | Organisation | Period |
-|:---|:---|:---:|
-| **Data Analytics with AI — Academic Intern** | IBM SkillsBuild · AICTE · BharatCares | Aug – Sep 2026 |
+|:---|:---|:---|
+| **B.Tech, Computer Science & Engineering** | Pimpri Chinchwad University, Pune | 2026 – 2029 |
+| **Data Analytics with AI Academic Intern** | IBM SkillsBuild · AICTE · BharatCares | Aug – Sep 2026 |
 | **Web Development Intern** | Anishree Technologies LLP | Jun – Aug 2025 |
+| **Diploma, Computer Science & Engineering** | Tulsiramji Gaikwad-Patil Polytechnic, Nagpur | 2023 – 2026 · 81.41% |
 
 ---
 
-## Projects
-
-### [InsightFlow — Autonomous Multi-Agent AI Platform](https://github.com/sumitjp07/insightflow-multiagent)
-
-End-to-end autonomous research platform built on **LangGraph, FastAPI, and Google Gemini API**. Five specialised agents (Planner → Analyst → Researcher → Evaluator → Reporter) operate through cyclic state machines with a closed-world tool layer.
-
-- **100.0% calculation accuracy** verified against Pandas ground truth via automated critic agent
-- **2.06 s** average end-to-end pipeline latency
-- CI/CD pipeline via **GitHub Actions** — 8 consecutive green workflow runs
-- Enterprise dark-mode workspace with 1-click executive PDF export
-
-`Python` `LangGraph` `FastAPI` `Gemini API` `Pytest` `GitHub Actions`
-
----
-
-### [AI Job Market Skill Demand Analyzer](https://github.com/sumitjp07/AI-Job-Market-Skill-Demand-Analyzer)
-
-Production-grade data intelligence pipeline built as an **IBM SkillsBuild × AICTE × BharatCares** academic deliverable.
-
-- Analysed **9,355+ structured job records** (2020–2023 dataset)
-- Benchmarked **3 classification models** — Random Forest, Linear SVM, Logistic Regression
-- Achieved **89% prediction accuracy** using Scikit-learn
-- Automated skill-gap diagnostic engine with actionable career recommendations
-
-`Python` `Pandas` `Scikit-learn` `Matplotlib` `Jupyter`
-
----
-
-## Technical Skills
-
-| Area | Technologies |
-|:---|:---|
-| **AI / LLM Engineering** | LangGraph · LangChain · Google Gemini API · Autonomous Agents |
-| **Data & ML** | Pandas · NumPy · Scikit-learn · Matplotlib |
-| **Backend Development** | Python · FastAPI · REST APIs · Pytest · SQLite · MySQL |
-| **Systems & Algorithms** | C++ · C · Data Structures & Algorithms · Linux |
-| **Dev Tools** | Git · GitHub Actions · CI/CD · VS Code · Postman |
-
----
-
-## Contribution Activity
+### 🐍 Contribution Activity
 
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sumitjp07/sumitjp07/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sumitjp07/sumitjp07/output/github-snake.svg" />
-  <img alt="Contribution graph" src="https://raw.githubusercontent.com/sumitjp07/sumitjp07/output/github-snake-dark.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/sumitjp07/sumitjp07/output/github-snake-dark.svg" />
 </picture>
 </div>
 
 ---
 
 <div align="center">
-<sub>Open to AI Engineering, Applied AI, and Software Development internship roles — <a href="mailto:sumitj.patil2007@gmail.com">sumitj.patil2007@gmail.com</a> · Pune, India</sub>
+<sub>Designed with architectural restraint &nbsp;•&nbsp; Available for engineering roles &nbsp;•&nbsp; Pune, India</sub>
 </div>
