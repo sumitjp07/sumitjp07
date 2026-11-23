@@ -19,8 +19,6 @@
   </a>
   &nbsp;
   <img src="https://img.shields.io/badge/Pune%2C%20India-0F172A?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open%20to%20Internships-22C55E?style=for-the-badge&logoColor=white" alt="Open to Internships" />
 </p>
 
 ---
@@ -80,17 +78,6 @@ Currently seeking **AI Agent Engineer**, **Applied AI**, or **Software Developme
 | **Web Development Intern** | Anishree Technologies LLP | Jun – Aug 2025 |
 | **Diploma, Computer Science & Engineering** | Tulsiramji Gaikwad-Patil Polytechnic, Nagpur | 2023 – 2026 · 81.41% |
 
----
-
-### 🐍 Contribution Activity
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sumitjp07/sumitjp07/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sumitjp07/sumitjp07/output/github-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/sumitjp07/sumitjp07/output/github-snake-dark.svg" />
-</picture>
-</div>
 
 ---
 
