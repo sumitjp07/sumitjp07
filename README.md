@@ -68,27 +68,6 @@ Currently seeking **AI Agent Engineer**, **Applied AI**, or **Software Developme
 
 ---
 
-### 📊 GitHub Engineering Analytics & Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumitjp07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Sumit GitHub Stats" height="165" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitjp07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165" />
-</div>
-
----
-
-### 🏆 Verified Achievements & Collaboration
-
-<div align="center">
-  <a href="https://github.com/sumitjp07?tab=achievements" target="_blank">
-    <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="85" alt="Pull Shark Badge" />
-  </a>
-  <p><sub><b>Pull Shark 🦈</b> • Verified Multi-Agent PR Collaboration &amp; CI/CD Merges</sub></p>
-</div>
-
----
-
 ### 🎓 Experience & Education
 
 - **B.Tech, Computer Science & Engineering** — Pimpri Chinchwad University, Pune *(2026 – 2029)*
